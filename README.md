@@ -1,5 +1,8 @@
 # options_trading
+AI Algorithm for Optimizing Bear Spread Options on U.S. Treasury Futures
 
+## Purpose
+The purpose of this project is to develop an AI algorithm to select Bear Call Spread or Bear Put Spread future option pairs with the highest probability of expiring Out-of-The-Money (partially or fully).
 
 ## Macro Data
 
